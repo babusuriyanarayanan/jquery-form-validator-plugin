@@ -1,0 +1,14 @@
+{
+  "name": "hello-world",
+  "description": "jquery-validation plugin demo appln",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.x",
+    "http"  :"*",
+    "cors" : "*",
+    "body-parser" : "*",
+    "consolidate" : "*",
+    "mustache" : "*"
+  }
+}
