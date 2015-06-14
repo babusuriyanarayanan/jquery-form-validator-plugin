@@ -26,3 +26,9 @@ execute node server.js
 
 http://localhost:3000/
 
+for sample demo, please refer the url below :
+
+https://frozen-mountain-2209.herokuapp.com
+
+
+
