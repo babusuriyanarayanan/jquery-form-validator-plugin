@@ -224,7 +224,7 @@ $(function() {
     }]
     inst.addRules(rulesObj);
     $('.fld-submit').off("click").on("click", function() {
-        var path = 'http://localhost:3000/data/resdata';
+        var path = '/data/resdata';
         var passVal = $('#rfpFormStep1 #Password').val();
         $.ajax({
             url: path,
